@@ -19,13 +19,12 @@ api.connections = id => api(`/connections/${id}`) // Connections by id
 
 api.work = id => api(`/work/${id}`) // Work by id
 
+//____All call exemple____//
+// api.all()
+// 	.then(json => console.log(json))
 
 //____id call exemple____//
 // api.id(1)
-// 	.then(json => console.log(json))
-
-//____All call exemple____//
-// api.all()
 // 	.then(json => console.log(json))
 
 //____Powerstats by id call exemple____//
@@ -45,5 +44,5 @@ api.work = id => api(`/work/${id}`) // Work by id
 // 	.then(json => console.log(json))
 
 //____work by id call exemple____//
-api.work(1)
-	.then(json => console.log(json))
+// api.work(1)
+// 	.then(json => console.log(json))
