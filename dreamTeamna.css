@@ -1,0 +1,50 @@
+header{
+ 	background-image: url(https://image.freepik.com/vecteurs-libre/versus-fond-rouge-et-bleu_23-2147667028.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position: top;
+	text-align: center;
+	color: black;
+	background color:#2ba7f0;
+}
+
+h1 {
+  color: black ;
+  font-family: Anton;
+}
+
+#mb1,#mb2,#mb3,#mb4,#mb5,#mb6,#mb7,#mb8,#mb9,#mb10 {
+  border-radius: 8px;
+  background: lightblue;
+  text-align: center;
+  border-radius:50%;
+  width:30px;
+  height:30px;
+  display: inline-block;
+  line-height: 2.4em;
+  margin-bottom: 2px;
+  vertical-align: center;
+}
+
+body{
+	text-align: center;
+}
+p{
+  font-family: Anton;
+}
+
+body{
+  /*background-image: url(https://image.freepik.com/vecteurs-libre/versus-fond-rouge-et-bleu_23-2147667028.jpg);*/
+	background-repeat:no-repeat;
+  background-position:425px 200px;
+  background-color: #2ba7f0;
+
+}
+
+table{
+  margin: 0 auto;
+  font-family: Anton;
+  color : white;
+  
+}
+
